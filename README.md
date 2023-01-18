@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+welcome to my profile!
 
  <div>
    <a href="https://github.com/lucianomdsds">
